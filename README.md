@@ -4,16 +4,16 @@
 
 Click on the link to see each lesson or click on [![Binder](/binder.png) to launch the jupyter notebook in an interactive environment. 
 
-* [Introduction to Python Programming](https://github.com/SouthernMethodistUniversity/dhri/blob/main/docs/jupyter_execute/sections/intro_to_python.ipynb)
+* [Introduction to Python Programming](https://github.com/SouthernMethodistUniversity/pythonintro/blob/main/intro_to_python.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/pythonintro/main?labpath=intro_to_python.ipynb)
 
-* [Introduction to Working with Text in Python](https://github.com/SouthernMethodistUniversity/dhri/blob/main/docs/jupyter_execute/sections/intro_to_working_with_text.ipynb)
+* [Introduction to Working with Text in Python](https://github.com/SouthernMethodistUniversity/pythonintro/blob/main/intro_to_working_with_text.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/pythonintro/main?labpath=intro_to_working_with_text.ipynb)
 
-* [Intermediate TextMining with Python](https://github.com/SouthernMethodistUniversity/dhri/blob/main/docs/jupyter_execute/sections/intermediate_textmining.ipynb)
+* [Intermediate TextMining with Python](https://github.com/SouthernMethodistUniversity/pythonintro/blob/main/intermediate_textmining.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/pythonintro/main?labpath=intermediate_textmining.ipynb)
 
-* [TextMining with Python](https://github.com/SouthernMethodistUniversity/dhri/blob/main/docs/jupyter_execute/sections/intermediate_textmining.ipynb)
+* [TextMining with Python](https://github.com/SouthernMethodistUniversity/pythonintro/blob/main/textmining_python.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/pythonintro/main?labpath=textmining_python.ipynb)
 
 
