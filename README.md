@@ -2,7 +2,7 @@
 
 # Text Mining With Python
 
-Click on the link to see each lesson or click on [![Binder](https://mybinder.org/badge_logo.svg) to launch the jupyter notebook in an interactive envorinment. 
+Click on the link to see each lesson or click on [![Binder](/binder.png) to launch the jupyter notebook in an interactive environment. 
 
 * [Introduction to Python Programming](https://github.com/SouthernMethodistUniversity/dhri/blob/main/docs/jupyter_execute/sections/intro_to_python.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouthernMethodistUniversity/pythonintro/main?labpath=intro_to_python.ipynb)
