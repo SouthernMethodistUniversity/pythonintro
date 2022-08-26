@@ -21,7 +21,7 @@ Additional lessons:
 * [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/): This lesson is an introduction to programming in Python 3 for people with little or no previous programming experience. Via [Software Carpentry](https://software-carpentry.org/lessons/)
 * [Python lessons](https://programminghistorian.org/en/lessons/?topic=python) from [Programming Historian](https://programminghistorian.org/)
 
-
+### [To see the full DHRI curriculum, click here](https://southernmethodistuniversity.github.io/dhri/) 
 -----
 #### Attribution 
 Session Leader: [Eric Godat](https://www.smu.edu/Provost/Data-Science-Institute/People)
