@@ -23,7 +23,6 @@ Additional lessons:
 
 ### [To see the full DHRI curriculum, click here](https://southernmethodistuniversity.github.io/dhri/) 
 -----
-#### Attribution 
-Session Leader: [Eric Godat](https://www.smu.edu/Provost/Data-Science-Institute/People)
-* Written by Eric Godat & Robert Kalescky
+
+* Written by [Eric Godat](https://www.smu.edu/Provost/Data-Science-Institute/People) & Robert Kalescky
 
